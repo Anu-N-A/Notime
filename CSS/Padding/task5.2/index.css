@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.gray{
+    background-color: rgb(221, 217, 217);
+    height: 200px;
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 600px;
+    
+}
+.search{
+    background-color: rgb(221, 217, 217);
+    border: solid 2px black;
+    border-radius: 80px;
+    padding: 8px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+/* .black{
+    border-radius: 180px;
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    margin-left: 200px;
+    
+} */

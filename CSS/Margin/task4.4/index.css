@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+/* .white{
+    background-color: #ffffff;
+    height: 300px;
+    width: 600px;
+    margin: 500px 500px 500px 500px;
+    padding: 10px; 
+
+} */
+.lavender{
+    background-color: rgb(190, 190, 247);
+    height: 300px;
+    width: 600px;
+    padding-top: 50px;
+    display: flex;
+    align-content: space-evenly;
+    margin: 500px 500px 500px 500px;
+    border: 20px solid white;
+}
+.lightgreen{
+    background-color: rgb(140, 223, 140);
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.lightblue{
+    background-color: rgb(91, 233, 226);
+    height: 200px;
+    width: 200px;
+    margin: 8px;
+}
+ .yellow{
+    background-color: rgb(249, 249, 119);
+    height: 200px;
+    width: 200px;
+    margin-left: 140px;
+    margin-top: 20px;
+ }

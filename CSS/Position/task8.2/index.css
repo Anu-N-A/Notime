@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+.box-grey{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(187, 208, 207);
+    position: absolute;
+    left: 30%;
+    top: 15%;
+}
+.circle1{
+    width: 260px;
+    height: 260px;
+    border-radius: 180px;
+    background-image: url(./img/nature-landscape-trees-clouds-wallpaper-thumb.jpg);
+    object-fit: cover;
+    position: relative;
+    left: 200px;
+    top: 30px;
+    border: solid white 5px;
+    
+}
+.circle2{
+    width: 150px;
+    height: 150px;
+    border-radius: 180px;
+    background-image: url(https://img.freepik.com/premium-photo/foggy-forest-with-trees-hill-background_900101-55569.jpg);
+    object-fit: cover;
+    position: absolute;
+    left: 100px;
+    top: 180px;
+}
+.white-box{
+    position: absolute;
+    left: 320px;
+    top: 200px;
+    background-color: white;
+    padding: 15px; 
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    right: 20px;
+    bottom: 50px;
+}
+.circle4{
+    width: 60px;
+    height: 60px;
+    border-radius: 180px;
+    border: solid 30px rgb(123, 149, 144);
+    background-color: rgb(187, 208, 207);
+    position: absolute;
+    left: 170px;
+    top: 340px;
+
+}
+.circle3{
+    width: 40px;
+    height: 40px;
+    border-radius: 180px;
+    border: solid 15px rgb(86, 103, 100);
+    background-color: rgb(187, 208, 207);
+    position: absolute;
+    left: 50px;
+    top: 300px;
+
+}
+button{
+    border: 3px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+}

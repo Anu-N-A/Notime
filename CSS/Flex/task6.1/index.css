@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+.parent{
+    background-color: rgb(216, 215, 215);
+    height: 200px;
+    width: 500px;
+    border: solid 3px white;
+    margin-left: 500px;
+    margin-top: 250px;
+    display: flex;
+    padding: 20px;
+}
+.box-red{
+    background-color: rgb(246, 118, 118);
+    height: 200px;
+    width: 200px;
+}
+.box-yellow{
+    background-color: rgb(207, 255, 123);
+    height: 100px;
+    width: 300px;
+}
+.box-pink{
+    background-color:rgb(247, 153, 223);
+    height: 80px;
+    width: 140px;
+    margin-bottom: 30px;
+}
+.box-blue{
+    background-color: rgb(174, 174, 253);
+    height: 40%;
+    width: 150px;
+    
+}
+.parent2{
+    display: flex;
+    align-items: start;
+    margin-top: 10px;
+}
+.parent3{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.parent-yellow{
+    /* margin-top: 3px; */
+    margin-left: 10px;
+    /* margin-bottom: 3px; */
+}
+.text{
+    color: white;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.white{
+ height: 300px;
+ width: 300px;
+ background-color: white;
+ margin:500px;
+}
+.lightgreen{
+    background-color: rgb(87, 168, 7);
+    height: 290px;
+    width: 290px;
+    border-radius: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    background-color: rgb(32, 110, 89);
+    height: 280px;
+    width: 280px;
+    border-radius: 180px;
+    margin: 5px 5px 5px 5px;
+    border: solid 2px white;
+   
+}
+.green2{
+    background-color: rgb(32, 110, 89);
+    height: 150px;
+    width: 150px;
+    border-radius: 180px;
+    border: solid 15px white;
+    margin: 50px 50px 50px 50px;
+}

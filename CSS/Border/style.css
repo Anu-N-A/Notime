@@ -1,0 +1,52 @@
+ body{
+   background-color: black; 
+   }
+.white{
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+.part1{
+    background-color: rgb(178, 245, 178);
+    border: solid 4px blue;
+    border-radius: 30px;
+    }
+.part2{
+    background-color: rgb(169, 59, 237);
+    border: solid 4px blue;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    }
+.part3{
+    background-color: rgb(115, 201, 241);
+    border: solid 4px blue;
+    border-radius: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 15px;
+    }
+.part4{
+    background-color: rgb(178, 245, 178);
+    border: solid 4px blue;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 60px;
+    border-top-right-radius: 10px;
+    } 
+    .box {
+        display: flex;
+        height: 200px;
+        width: 400px;
+        padding: 20px;
+        margin: 20px;
+        gap: 50px;
+        
+    }
+   

@@ -1,0 +1,99 @@
+
+body{
+    background-color: black;
+}
+.box{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 250px;
+    padding-top: 15px;
+}
+.box2{
+    height: 260px;
+    width: 560px;
+    background-color: white;
+    border: solid 3px yellow;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.box3{
+    height: 70px;
+    width: 550px;
+    background-color: white;
+    border: solid rgb(131, 129, 129) 2px;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.yellow{
+    height: 60px;
+    width: 540px;
+    background-color: rgb(252, 200, 69);
+    border: solid black 2px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.content{
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#gap{
+    gap: 15px;
+    display: inline-flex;
+}
+.box4{
+    background-color: white;
+    height: 150px;
+    width: 550px;
+    border: solid rgb(131, 129, 129) 2px;
+    margin-top: 10px;
+    margin-left: 5px;
+    display: flex;
+    gap: 5px;
+}
+.blue{
+    background-color: rgb(73, 73, 162);
+    height: 150px;
+    width: 150px;
+    border: solid 3px black;
+}
+.green{
+    background-color: rgb(21, 221, 198);
+    height: 70px;
+    width: 300px;
+    border: solid 3px black;
+}
+.orange{
+    background-color: orangered;
+    height: 70px;
+    width: 110px;
+    border: solid 3px black;
+}
+.red{
+    background-color: rgb(209, 43, 79);
+    height: 70px;
+    width: 420px;
+    border: solid 3px black;
+}
+.box6{
+    display: flex;
+    gap: 5px;
+}
+.box5{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.content2{
+    font-size: small;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 20px;
+}

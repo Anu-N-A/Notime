@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    color: rgb(20, 17, 17); 
+}
+
+.gray {
+    background-color: rgb(189, 185, 185);
+    height: 200px;
+    width: 200px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+}
+
+.gray1, .gray2 {
+    background-color: rgb(189, 185, 185);
+    height: 20px;
+    width: 100%;
+    border-radius: 80px;
+    border: solid 2px rgb(86, 137, 232);
+}
+
+.gray1 {
+    margin-top: 5px; 
+}
+
+.gray2 {
+    margin-top: 10px; 
+}
+.para{
+    padding-left: 10px;
+}

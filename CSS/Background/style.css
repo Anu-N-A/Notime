@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+div{
+    background-image: url("https://raw.githubusercontent.com/DareDevilStudios/mern-stack-learnings/main/level1/css/basics.jpg");
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-right: 500px;
+
+}
+
+   

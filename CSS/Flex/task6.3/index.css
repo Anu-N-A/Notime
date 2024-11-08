@@ -1,0 +1,106 @@
+
+body{
+    background-color: black;
+    display: block;
+  
+
+}
+#container{
+    background-color: white;
+    margin-left: 
+    
+}
+.head-part{
+    background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=873&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    height: 800px;
+    width: 700px;
+    padding-top: 100px;
+    
+  
+}
+.nav{
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    font-size: small;
+    justify-content: space-between; 
+} 
+.studio{
+    width: 200px;
+    background-color: transparent;
+    color: white;
+    margin-top: 30px;
+    margin-left: 250px;
+    height: 200px;
+    font-size: 20px;
+    text-decoration: none;
+   /* padding-left: 50px;
+   padding-top: 50px; */
+   
+}
+button{
+    padding: 5px;
+   margin-left: 30px;
+   background-color: rgb(210, 76, 76);
+   border: none;
+   border-radius: 5px;
+   color: white;
+  
+   
+}
+.content{
+    width: 700px;
+    height: 700px;
+    background-color: white;
+    font-size: 10px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.content h1{
+    margin-left: 280px;
+    font-size: 15px;
+}
+.content p{
+    margin-left: 200px;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box img{
+    width: 100%;
+}
+.boxes{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#box1{
+  background-color: rgb(59, 202, 154);  
+}
+#box2{
+    background-color: rgb(243, 121, 76);
+}
+#box3{
+    background-color: rgb(107, 194, 248);
+}
+#box4{
+    background-color: rgb(120, 216, 120);
+}
+.portfolio p{
+    margin-left: 270px;
+}
+.portfolio h1{
+    padding-top: 50px;
+}
+

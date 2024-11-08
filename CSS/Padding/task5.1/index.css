@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.brown{
+  background-image: linear-gradient(rgb(127, 71, 7),rgb(208, 150, 43), rgb(179, 99, 7));
+  height: 150px;
+  width: 150px;
+  margin: 500px 400px 500px 600px;
+  padding-top: 60px;
+  padding-left: 40px;
+}
+.btn{
+    background-image:linear-gradient(rgb(182, 99, 11),rgb(233, 183, 33));
+    border-radius: 80px;
+    padding: 25px;
+}
